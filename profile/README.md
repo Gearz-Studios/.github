@@ -7,5 +7,9 @@
 # What do we do?
 - We create IoT (Internet Of Things) devices that will change the world
 
-### If you have any questions about this don't hesitate to either tweet us or send us a direct message at [@GearzTeam](https://twitter.com/GearzTeam)
-### You can also send us an email at **gearzproducts@gmail.com**
+# How to contact us
+- If you have any questions about this don't hesitate to either tweet us or send us a direct message at [@GearzTeam](https://twitter.com/GearzTeam)
+- You can also send us an email at **gearzproducts@gmail.com**
+
+
+## We have some big things brewing! 💻
