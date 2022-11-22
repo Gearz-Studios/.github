@@ -13,7 +13,7 @@
 - C/C++
 - Python
 - NodeJS, JavaScript and TypeScript
-- React and React Native
+- NextJS, React and React Native
 - SQL
 
 # How to contact us
